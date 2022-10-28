@@ -83,7 +83,8 @@ public class InfoPage extends javax.swing.JFrame {
     //  CLOSE  butoon action
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         //  CLOSE  butoon action
-        setVisible(false);
+//        setVisible(false);
+        this.dispose();
         new Home().setVisible(true);
     }//GEN-LAST:event_jButton1ActionPerformed
 

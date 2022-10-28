@@ -1,7 +1,6 @@
  
 package com.mycompany.hmsbasic;
 
-import folderForDependencyJavaPages.ConnectionProvider;
 import java.awt.Color;
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -361,7 +360,8 @@ public class UpdateRecordPage extends javax.swing.JFrame {
 //  CLOSE  butoon action
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
         //  CLOSE  butoon action
-        setVisible(false);
+//        setVisible(false);
+        this.dispose();
         new Home().setVisible(true);
     }//GEN-LAST:event_jButton3ActionPerformed
 

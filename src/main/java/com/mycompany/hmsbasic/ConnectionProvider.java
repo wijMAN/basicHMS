@@ -1,5 +1,5 @@
  
-package folderForDependencyJavaPages;
+package com.mycompany.hmsbasic;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

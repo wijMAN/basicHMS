@@ -1,7 +1,6 @@
  
 package com.mycompany.hmsbasic;
 
-import folderForDependencyJavaPages.ConnectionProvider;
 import java.awt.Color;
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -229,7 +228,8 @@ public class UpdateLoginPage extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         //  CLOSE  butoon action
-        this.setVisible(false);
+//        this.setVisible(false);
+        this.dispose();
         new Home().setVisible(true);
     }//GEN-LAST:event_jButton1ActionPerformed
 

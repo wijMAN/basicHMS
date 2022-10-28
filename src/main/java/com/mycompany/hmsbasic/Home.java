@@ -184,7 +184,8 @@ public class Home extends javax.swing.JFrame {
         int a=JOptionPane.showConfirmDialog(null,"Pakka?","LOGOUT",JOptionPane.YES_NO_OPTION);
         if(a==0)  
         {
-        setVisible(false);
+//        setVisible(false);
+        this.dispose();
         new LoginPage().setVisible(true);
         }
     }//GEN-LAST:event_jButton7ActionPerformed

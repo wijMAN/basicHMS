@@ -1,7 +1,6 @@
  
 package com.mycompany.hmsbasic;
 
-import folderForDependencyJavaPages.ConnectionProvider;
 import java.awt.Color;
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -239,8 +238,9 @@ public class AddDiagnosisInfo extends javax.swing.JFrame {
 // CLOSE button action
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // CLOSE button action
-         setVisible(false);
+//         setVisible(false);
 //        System.exit(0);
+        this.dispose();
         new Home().setVisible(true);
     }//GEN-LAST:event_jButton2ActionPerformed
 
