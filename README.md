@@ -5,23 +5,32 @@ A simple application build using javax.swing, mySQL database & Netbeans IDE. Thi
 
 
 ## Login Page
-![App Screenshot](pics_hms\loginPage.jpg)
+<img src="pics_hms\loginPage.jpg" width="900">
+
 ## Home Page
-![App Screenshot](pics_hms\homePage.jpg)
+<img src="pics_hms\homePage.jpg" width="900">
+
 ## Add Patient Page
-![App Screenshot](pics_hms\addPatientPage.jpg)
+<img src=" pics_hms\addPatientPage.jpg" width="900">
+
 ## Search & Add Patient Diagnosis Page
-![App Screenshot](pics_hms\addPatientDiagnosisPage.jpg)
+<img src=" pics_hms/addPatientDiagnosisPage.jpg" width="900">
+
 ## Search Patient Report Page
-![App Screenshot](pics_hms\patientReportPage.jpg)
+<img src=" pics_hms\patientReportPage.jpg" width="900">
+
 ## Update Patient Record Page
-![App Screenshot](pics_hms\updatePatientRecordPage.jpg)
+<img src=" pics_hms\updatePatientRecordPage.jpg" width="900">
+
 ## Hospital Info Page
-![App Screenshot](pics_hms\aboutHospitalPage.jpg)
+<img src="pics_hms\aboutHospitalPage.jpg " width="900">
+
 ## Change Login Credentials Page
-![App Screenshot](pics_hms\loginCredentialsUpdatePage.jpg)
+<img src="pics_hms\loginCredentialsUpdatePage.jpg " width="900">
+
 ## Logout Confirmation Dialog Box
-![App Screenshot](pics_hms\logoutDialogBox.jpg)
+<img src=" pics_hms\logoutDialogBox.jpg" width="900">
+
 
 
 
