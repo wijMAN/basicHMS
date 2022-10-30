@@ -5,31 +5,31 @@ A simple application build using javax.swing, mySQL database & Netbeans IDE. Thi
 
 
 ## Login Page
-<img src="pics_hms\loginPage.jpg" width="900">
+<img src="Screenshots\loginPage.jpg" width="900">
 
 ## Home Page
-<img src="pics_hms\homePage.jpg" width="900">
+<img src="Screenshots\homePage.jpg" width="900">
 
 ## Add Patient Page
-<img src=" pics_hms\addPatientPage.jpg" width="900">
+<img src=" Screenshots\addPatientPage.jpg" width="900">
 
 ## Search & Add Patient Diagnosis Page
-<img src=" pics_hms/addPatientDiagnosisPage.jpg" width="900">
+<img src=" Screenshots/addPatientDiagnosisPage.jpg" width="900">
 
 ## Search Patient Report Page
-<img src=" pics_hms\patientReportPage.jpg" width="900">
+<img src=" Screenshots\patientReportPage.jpg" width="900">
 
 ## Update Patient Record Page
-<img src=" pics_hms\updatePatientRecordPage.jpg" width="900">
+<img src=" Screenshots\updatePatientRecordPage.jpg" width="900">
 
 ## Hospital Info Page
-<img src="pics_hms\aboutHospitalPage.jpg " width="900">
+<img src="Screenshots\aboutHospitalPage.jpg " width="900">
 
 ## Change Login Credentials Page
-<img src="pics_hms\loginCredentialsUpdatePage.jpg " width="900">
+<img src="Screenshots\loginCredentialsUpdatePage.jpg " width="900">
 
 ## Logout Confirmation Dialog Box
-<img src=" pics_hms\logoutDialogBox.jpg" width="900">
+<img src=" Screenshots\logoutDialogBox.jpg" width="900">
 
 
 
