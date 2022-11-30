@@ -130,7 +130,7 @@ public class LoginPage extends javax.swing.JFrame {
                     
                     if(jTextField1.getText().equals(user) && new String(jPasswordField1.getPassword()).equals(pass))
                     {
-                    setVisible(false);
+                    this.dispose();
                     new Home().setVisible(true);
                     }
                     
