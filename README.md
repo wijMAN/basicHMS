@@ -1,7 +1,7 @@
 
 # basicHMS
 
-A simple application build using javax.swing, mySQL database & Netbeans IDE. This applicatiion provides easy way to add patient records, update them, search them, & delete them, if necessary, basically covering the CURD operations. Below are few screenshots of the application, when it comes to life.
+A simple application built using javax.swing, mySQL database & Netbeans IDE. This applicatiion provides easy way to add patient records, update them, search them, & delete them, if necessary, basically covering the CURD operations. Below are few screenshots of the application, when it comes to life.
 
 
 ## Login Page
